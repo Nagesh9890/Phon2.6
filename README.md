@@ -6,3 +6,8 @@
 
 print "Accuracy for Category Level 1: %.2f" % accuracy_cat1
 print "Accuracy for Category Level 2: %.2f" % accuracy_cat2
+
+
+
+print(f"Predicted Category Level 1: {category1_demo}")
+print(f"Predicted Category Level 2: {category2_demo}")
